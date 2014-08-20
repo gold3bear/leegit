@@ -3,3 +3,5 @@ hellow git
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 git 测试 添加 2014年08月20日
+do some change 
+ have test
